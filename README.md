@@ -44,6 +44,7 @@ Aby uruchomić projekt lokalnie:
 4. Skonfiguruj bazę danych
    Otwórz Tools → NuGet Package Manager → Package Manager Console.
    wpisz
+   ```bash
    Add-Migration NazwaMigracji
    Update-Database
   
